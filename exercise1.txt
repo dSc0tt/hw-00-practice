@@ -1,0 +1,14 @@
+Python 3.8.1
+pip 20.0.2 from /home/bdpateam1/.pyenv/versions/3.8.1/lib/python3.8/site-packages/pip (python 3.8)
+user.email=yungthrowawaynocap@gmail.com
+user.name=Richmond
+core.editor=code -n --wait
+1.41.1
+26076a4de974ead31f97692a0d32f90d735645c0
+x64
+bdpateam1@DESKTOP-V76K8PM:~/hw-00-practice$ PYENV_VERSION=anaconda3
+bdpateam1@DESKTOP-V76K8PM:~/hw-00-practice$ PYENV_VERSION=anaconda3-2019.10 --version
+--version: command not found
+bdpateam1@DESKTOP-V76K8PM:~/hw-00-practice$ PYENV_VERSION=anaconda3-2019.10 conda --version
+conda 4.7.12
+bdpateam1@DESKTOP-V76K8PM:~/hw-00-practice$                                                                          
